@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Booking system/Booking system.vcxproj" Id="6aa046e2-cbaa-48f8-a0a3-7fd0df900fa4" />
+</Solution>
